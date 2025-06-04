@@ -1,0 +1,15 @@
+{
+  "p": [
+    "“Eğer idam edilerek ölürsen, senin tarafın kaybeder.”",
+    "Aziz idam edilirse oyun sona erer."
+  ],
+  "li": [
+    "Aziz idam yoluyla ölürse, oyun hemen sona erer. İyiler kaybeder, kötüler kazanır.",
+    "Aziz başka bir şekilde ölürse—örneğin Şeytan tarafından öldürülürse—oyun devam eder."
+  ],
+  "examples": [
+    "Yedi oyuncu hayattadır ve adaylıklar sürmektedir. Aziz dört oy alır ve idam edilmek üzeredir. Ardından Baron aday gösterilir ama sadece üç oy alır. O gün başka aday gösterilmez. Aziz idam edilir ve kötüler kazanır.",
+    "Cin aday gösterilir ve oylama başlar. Silahşor, Aziz’i öldürür. Aziz ölür, fakat oyun devam eder.",
+    "Aziz idam edilir. Ancak Günah Keçisi’nin yeteneği devreye girer ve onun yerine Günah Keçisi ölür. Oyun devam eder çünkü Aziz ölmemiştir."
+  ]
+}

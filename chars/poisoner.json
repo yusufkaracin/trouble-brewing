@@ -1,0 +1,19 @@
+{
+  "p": [
+    "“Her gece bir oyuncu seçersin: o oyuncu o gece ve ertesi gün boyunca zehirlenmiş olur.”",
+    "Zehirleyici, gizlice karakter yeteneklerini bozar."
+  ],
+  "li": [
+    "Her gece, Zehirleyici bir oyuncu seçer ve o oyuncu hem o gece hem de ertesi gün boyunca zehirli olur.",
+    "Zehirlenmiş bir oyuncunun hiçbir yeteneği yoktur, ancak Anlatıcı sanki yeteneği varmış gibi davranır. Bu oyuncu oyunu gerçekte etkilemez.",
+    "Zehirlenmiş oyuncunun zehirli olduğu anlaşılmasın diye, Anlatıcı onları gece uyandırır ve normalmiş gibi hareket eder. Eğer karakter bilgi alıyorsa, Anlatıcı ona sahte bilgi verebilir.",
+    "“Oyunda bir kez” kullanılabilen bir yeteneği zehirlenmişken kullanan oyuncu, bu hakkını kaybeder ve tekrar kullanamaz."
+  ],
+  "examples": [
+    "Gece boyunca Zehirleyici, Avcı’yı zehirler. Ertesi gün Avcı, Cin’i öldürmeye çalışır. Hiçbir şey olmaz. Artık Avcı’nın yeteneği yoktur.",
+    "Zehirlenmiş Empat, iki kötü oyuncunun yanında oturmasına rağmen “0” bilgisi alır. Ertesi gece, zehir etkisi geçtikten sonra doğru bilgi olan “2”yi öğrenir.",
+    "Müfettiş zehirlenmiştir. İki oyuncudan birinin Baron olduğunu öğrenir, ancak aslında ikisi de Yardakçı değildir. (Ya da oyuncular doğru olsa bile, gösterilen Yardakçı tipi yanlıştır.)",
+    "Mezarcı zehirlenmiştir. O gün Cin idam edilmiş olsa da, Mezarcı Masum’un öldüğünü öğrenir. Birkaç gün sonra zehirlenmiş bir Aziz ölür, fakat oyun devam eder.",
+    "Zehirleyici, Belediye Başkanı’nı zehirler ve ardından Cin olur. Artık oyunda bir Zehirleyici kalmadığı için Belediye Başkanı zehirli değildir."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "p": [
+    "“Oyunda fazladan Dışlanan vardır. [+2 Dışlanan]”",
+    "Baron, oyundaki Dışlanan sayısını artırır."
+  ],
+  "li": [
+    "Bu değişiklik oyun kurulumu sırasında gerçekleşir ve Baron ölse bile geri alınmaz. Kurulumdaki karakter değişiklikleri, oyun sırasında ne olursa olsun, karakter kâğıtlarında ve göstergelerinde köşeli parantez içinde ([bu şekilde]) belirtilir.",
+    "Eklenen Dışlanan karakterler daima Kasabalı karakterlerin yerine geçer; başka karakter türlerinin yerine geçmez."
+  ],
+  "examples": [
+    "Yedi oyunculu bir oyun kuruluyor. Normalde beş Kasabalı, bir Yardakçı ve bir Şeytan olmalıdır. Ancak Yardakçı Baron olduğu için, Anlatıcı iki Kasabalı göstergesini çıkarır ve yerine bir Aziz ile bir Uşak göstergesi ekler. Böylece torbaya üç Kasabalı, iki Dışlanan, bir Yardakçı ve bir Şeytan göstergesi girer.",
+    "On beş oyunculu bir oyun kuruluyor. Normalde dokuz Kasabalı, iki Dışlanan, üç Yardakçı ve bir Şeytan olmalıdır. Ancak Baron oyundadır, bu yüzden Anlatıcı bir Sarhoş ve bir Münzevi eklemelidir. Derviş göstergesi çıkarılır ve yerine bir Münzevi göstergesi eklenir. Ardından Sarhoş karakter göstergesi yerine, Anlatıcı, Anlatıcı Kitabı’na “Sarhoş” hatırlatma göstergesini koyar... çünkü bu oyunda bir oyuncu Kasabalı değil, Dışlanandır: Sarhoş. Tüm bu karakter göstergeleri oyuncuların çekmesi için torbaya konur."
+  ]
+}

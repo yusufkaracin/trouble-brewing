@@ -1,0 +1,15 @@
+{
+  "p": [
+    "“Şeytan’dan etkilenmezsin.”",
+    "Asker, Şeytan tarafından öldürülemez."
+  ],
+  "li": [
+    "Asker, Şeytan’ın öldürme yeteneğinden etkilenmez. Eğer Cin, gece Asker’e saldırırsa hiçbir şey olmaz. Kimse ölmez. Cin başka bir hedef seçemez.",
+    "Ancak Asker yine de idam yoluyla ölebilir, aday gösteren kişi Şeytan olsa bile. Asker yalnızca Şeytan’ın öldürme yeteneğine karşı korumalıdır; Şeytan oyuncusunun eylemlerine karşı değil."
+  ],
+  "examples": [
+    "Cin, Asker’e saldırır. Asker ölmez, bu yüzden o gece kimse ölmez.",
+    "Zehirleyici, Asker’i zehirler; ardından Cin, Asker’e saldırır. Asker yeteneğini kaybettiği için ölür.",
+    "Cin, Asker’e saldırır. Asker ölür; çünkü gerçekte Asker değil, Sarhoş’tur."
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "p": [
+    "“Senin Sarhoş olduğunu bilmezsin. Kendini bir Kasabalı karakter sanırsın, ama değilsin.”",
+    "Sarhoş olan oyuncu, oyunun başından sonuna kadar kendini bir Kasabalı zanneder, ancak aslında Sarhoş’tur ve bundan haberi yoktur."
+  ],
+  "li": [
+    "Oyun kurulurken Sarhoş’un göstergesi torbaya konmaz. Onun yerine bir Kasabalı karakterin göstergesi konur ve bu karakteri çeken oyuncu, oyun boyunca gizlice Sarhoş olur. Anlatıcı bunu bilir, oyuncu bilmez.",
+    "Sarhoş’un hiçbir yeteneği yoktur. Oyuncunun sandığı Kasabalı yeteneği oyunu etkilemesi gereken bir durumda hiçbir etkisi olmaz.",
+    "Ancak Anlatıcı, oyuncuya o Kasabalı gibi davranır. O karakter gece uyanıyorsa, Sarhoş da uyanır ve o Kasabalıymış gibi hareket eder. Bilgi alması gerekiyorsa, Anlatıcı ona sahte bilgi verebilir—hatta vermesi teşvik edilir."
+  ],
+  "examples": [
+    "Kendini Asker sanan Sarhoş, Cin tarafından saldırıya uğrar. Sarhoş ölür.",
+    "Kendini Empat sanan Sarhoş, gece uyanır ve yanında bir kötü oyuncu olmasına rağmen “0” bilgisi alır. Ertesi gece “1” bilgisi alır.",
+    "Kendini Karga Gözcüsü sanan Sarhoş, gece öldürülür. Aziz’i seçer ama Aziz yerine Zehirleyici olduğunu öğrenir.",
+    "Falcı idam edilir. O gece, kendini Mezarcı sanan Sarhoş, bugün ölen kişinin Sarhoş olduğunu öğrenir."
+  ]
+}

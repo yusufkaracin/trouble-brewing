@@ -1,0 +1,19 @@
+{
+  "p": [
+    "“Ölü olsan bile kötü biri, bir Yardakçı ya da Şeytan olarak algılanabilirsin.”",
+    "Münzevi aslında iyi bir oyuncudur, fakat kötü biri gibi görünebilir."
+  ],
+  "li": [
+    "Münzevi’nin tarafı (iyi ya da kötü) öğrenilmek istendiğinde, Anlatıcı onun nasıl görüneceğine karar verir.",
+    "Münzevi, belirli bir Yardakçıya ya da Şeytan’a yönelik bir yeteneğin hedefi olduğunda, Anlatıcı onun hangi karakter gibi algılanacağına karar verir.",
+    "Münzevi, aynı gece içinde bazen iyi, bazen kötü; bazen Dışlanan, bazen Yardakçı veya Şeytan gibi görünebilir. Anlatıcı, hikâyeyi ilginç kılacak şekilde seçimi yapar.",
+    "Münzevi, hangi karakter gibi görünürse görünsün, o karakterin yeteneğine sahip değildir. Örneğin, Zehirleyici gibi algılanan bir Münzevi gece uyanmaz ve oyuncu zehirleyemez."
+  ],
+  "examples": [
+    "Avcı yeteneğini Münzevi’ye karşı kullanır. Anlatıcı, Münzevi’nin Cin gibi algılandığına karar verir, bu yüzden Münzevi ölür. Avcı, Cin’i öldürdüğünü sanır.",
+    "Empat, komşuları Münzevi ve Derviş olan bir durumda, bir kötü komşu algılar. Ertesi gece, hiç kötü komşusu olmadığını öğrenir.",
+    "Müfettiş, Münzevi ya da Aziz’den birinin Kanlı Kadın olduğunu öğrenir.",
+    "Münzevi idam edilir. Mezarcı, Cin’in idam edildiğini öğrenir.",
+    "Münzevi, Cin ve kötü bir Yolcu’nun arasında oturur. Aşçı’ya “2” göstermek fazla bilgi vereceği için, Anlatıcı gerçek bilgi olan “0”’ı gösterir."
+  ]
+}

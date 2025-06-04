@@ -1,0 +1,18 @@
+{
+  "p": [
+    "“Eğer 5 veya daha fazla oyuncu hayattaysa ve Şeytan ölürse, sen Şeytan olursun. (Yolcular sayılmaz.)”",
+    "Kanlı Kadın, Şeytan öldüğünde onun yerini alabilir."
+  ],
+  "li": [
+    "Şeytan öleceği anda oyunda en az beş oyuncu varsa—yani Şeytan öldükten sonra en az dört oyuncu hayattaysa—Kanlı Kadın anında Şeytan olur ve oyun hiçbir şey olmamış gibi devam eder.",
+    "Yolcular, Kanlı Kadın’ın yeteneğinin tetiklenip tetiklenmeyeceği hesaplanırken oyuncu olarak sayılmaz.",
+    "Eğer Şeytan idam edildiğinde hayatta dörtten az oyuncu kalıyorsa, oyun sona erer ve iyiler kazanır.",
+    "Eğer gece Cin kendini öldürürse ve oyunda beş veya daha fazla oyuncu hayattaysa, Kanlı Kadın yeni Cin olmak zorundadır.",
+    "Kanlı Kadın Şeytan olduğunda, her yönüyle artık o Şeytan olur. İdam edilirse iyiler kazanır. Her gece saldırı yapar. Anlatıcı Kitabı’nda Şeytan olarak görünür."
+  ],
+  "examples": [
+    "Yedi oyuncu hayattadır: Cin, Kanlı Kadın, iki Kasabalı ve üç Yolcu. Cin idam edilir, fakat Yolcular oyuncu sayısına dahil olmadığı için oyun sona erer ve iyiler kazanır.",
+    "Beş oyuncu hayattadır: Cin, Kanlı Kadın, Baron ve iki Kasabalı. Cin idam edilir. Kanlı Kadın yeni Cin olur ve oyun devam eder.",
+    "Ece Kanlı Kadın’dır. Falcı, Ece ile Ege’yi seçer ve “hayır” cevabını alır. Daha sonra Cin ölür, Ece yeni Cin olur. Falcı tekrar Ece ile Ege’yi seçer ve bu kez “evet” cevabını alır."
+  ]
+}

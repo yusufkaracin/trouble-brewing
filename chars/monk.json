@@ -1,0 +1,16 @@
+{
+  "p": [
+    "“İlk gece hariç her gece bir oyuncu seçersin (kendin hariç): o oyuncu o gece Şeytan’dan korunur.”",
+    "Derviş, diğer oyuncuları Şeytan’a karşı korur."
+  ],
+  "li": [
+    "İlk gece hariç her gece, Derviş kendisi dışında herhangi bir oyuncuyu korumayı seçebilir.",
+    "Eğer Şeytan, Derviş tarafından korunan oyuncuya saldırırsa, o oyuncu ölmez. Şeytan başka birine saldırma hakkı kazanmaz—o gece ölüm gerçekleşmez.",
+    "Derviş, Şeytan’ın birini aday göstermesi ya da idam ettirmesi durumlarına karşı koruma sağlamaz."
+  ],
+  "examples": [
+    "Derviş, Falcı’yı korur. Cin, Falcı’ya saldırır. Bu gece kimse ölmez.",
+    "Derviş, Belediye Başkanı’nı korur. Cin, Belediye Başkanı’na saldırır. Belediye Başkanı’nın “başka bir oyuncu ölür” yeteneği tetiklenmez; çünkü Başkan hayattadır. Bu gece kimse ölmez.",
+    "Derviş, Cin’i korur. Cin, o gece kendini öldürmeyi seçer, ancak hiçbir şey olmaz. Cin hayatta kalır ve yeni bir Cin ortaya çıkmaz."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "p": [
+    "“Her gece Anlatıcı’nın Kitabı'nı görürsün. Ölü olsan bile iyi biri, bir Kasabalı ya da Dışlanan gibi algılanabilirsin.”",
+    "Casus, aslında kötü bir oyuncudur ama iyi biri gibi görünebilir. Ayrıca Anlatıcı’nın Kitabı'na bakarak tüm oyuncuların karakterlerini ve durumlarını öğrenir."
+  ],
+  "li": [
+    "Eğer bir karakterin yeteneği iyi bir oyuncuyu algılamaya yönelikse, Casus o karaktere iyi biri olarak görünebilir. Bir karakter Kasabalı ya da Dışlanan’ı algılayabiliyorsa, Casus ona belirli bir Kasabalı ya da Dışlanan gibi görünebilir.",
+    "Casus’un nasıl görüneceğine Anlatıcı karar verir; hatta aynı gece boyunca birden fazla karakter ya da iki farklı taraf olarak bile algılanabilir.",
+    "Casus, hangi karakter gibi görünürse görünsün, o karakterin yeteneğine sahip değildir. Örneğin, Avcı gibi algılanan bir Casus, Şeytan’ı öldüremez."
+  ],
+  "examples": [
+    "Çamaşırcı Kadın, Ata ya da Nil’den birinin Karga Gözcüsü olduğunu öğrenir. Ata aslında Derviş’tir, Nil ise Karga Gözcüsü gibi görünen Casus’tur.",
+    "Casus, Cin ile Empat’ın arasında oturur. Aşçı, Casus kötü biri gibi algılandığı için “1” bilgisi alır. Aynı gece, Empat “0” bilgisi alır; çünkü Casus artık iyi biri gibi algılanmaktadır.",
+    "Casus, Masum’u aday gösterir ve Masum’un yeteneğiyle idam edilir; çünkü Anlatıcı, Casus’un bir Kasabalı gibi görünmesine karar verir. O gece, Mezarcı “bugün ölen kişi Sarhoş’tu” bilgisini alır; çünkü Casus artık Sarhoş gibi görünmektedir."
+  ]
+}

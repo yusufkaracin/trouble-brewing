@@ -1,0 +1,18 @@
+{
+  "p": [
+    "“İlk gece hariç her gece, bugün idam edilen oyuncunun hangi karakter olduğunu öğrenirsin.”",
+    "Mezarcı, o gün idam edilen oyuncunun gerçek karakterini öğrenir."
+  ],
+  "li": [
+    "Mezarcı yalnızca idam yoluyla ölen oyuncuların karakterini öğrenir. Gün içinde başka nedenlerle (örneğin Silahşor’un birini öldürmesi ya da bir Yolcu’nun sürgün edilmesi gibi) gerçekleşen ölümler Mezarcı tarafından algılanmaz.",
+    "Mezarcı, ilk gece hariç her gece uyandırılır; çünkü ilk gün idam gerçekleşmemiştir.",
+    "Eğer o gün kimse ölmediyse, Mezarcı hiçbir bilgi almaz. Anlatıcı ya Mezarcı’yı hiç uyandırmaz ya da uyandırır ama herhangi bir karakter göstergesi vermez",
+    "Eğer Sarhoş idam edilirse, Mezarcı’ya gösterilen karakter Sarhoş olur; Sarhoş oyuncunun kendini sandığı Kasabalı karakter gösterilmez."
+  ],
+  "examples": [
+    "O gün Belediye Başkanı idam edilir. O gece Mezarcı’ya Belediye Başkanı göstergesi gösterilir.",
+    "O gün, kendini Masum sanan Sarhoş idam edilir. Gece olduğunda Mezarcı’ya Sarhoş göstergesi gösterilir; çünkü Mezarcı, oyuncunun sandığı değil, gerçek karakterini öğrenir.",
+    "Casus idam edilir. İki Yolcu sürgün edilir. O gece Mezarcı’ya Uşak göstergesi gösterilir; çünkü Casus, Uşak gibi görünmektedir ve sürgünler idam sayılmaz",
+    "O gün kimse idam edilmez. O gece Mezarcı uyandırılmaz."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "p": [
+    "“Her gece, bir oyuncu seçersin (kendin hariç): ertesi gün yalnızca o da oy veriyorsa sen de oy verebilirsin.”",
+    "Uşak, yalnızca Efendisi oy verirse oy kullanabilir."
+  ],
+  "li": [
+    "Her gece Uşak, Efendisi olarak bir oyuncu seçer. Bu oyuncu, önceki gecekiyle aynı kişi olabilir ya da farklı biri seçilebilir.",
+    "Eğer Efendi elini kaldırarak oy veriyorsa veya oyu çoktan sayıldıysa, Uşak da elini kaldırıp oy kullanabilir.",
+    "Eğer Efendi elini kaldırmazsa ya da oy sayılmadan önce elini indirirse, Uşak da oy kullanamaz ve elini indirmek zorundadır",
+    "Anlatıcı, Uşak’ın oy kullanma durumunu takip etmekle yükümlü değildir. Uşak kendi oy davranışından sorumludur. Yeteneğe aykırı bilerek oy kullanmak hile sayılır.",
+    "Sürgünler hiçbir yetkiden etkilenmediği için, Uşak sürgün oylamalarında dilediği gibi oy verebilir.",
+    "Ölü oyuncular yalnızca oy hakkı varsa el kaldırabilir. Eğer Uşak bir ölü oyuncuyu Efendi olarak seçmişse, bu kural yine geçerlidir.",
+    "Uşak asla oy vermeye zorlanmaz.",
+    "Uşak’ın oyu, Anlatıcı tarafından Efendisi’nden önce ya da sonra sayılabilir. Oturma sırası önemli değildir."
+  ],
+  "examples": [
+    "Uşak, Ege’yi Efendisi olarak seçer. Ertesi gün, eğer Ege bir idam için elini kaldırırsa, Uşak da oy verebilir. Eğer Ege elini kaldırmazsa, Uşak da oy veremez.",
+    "Bir adaylık süreci devam etmektedir. Uşak ve Efendisi ikisi de ellerini kaldırmıştır. Anlatıcı oyları sayarken, Efendi son anda elini indirir. Uşak da derhal elini indirmek zorundadır.",
+    "Uşak ölmüştür. Ölü oyuncuların yetenekleri olmadığı için, Uşak oy hakkıyla dilediği zaman oy kullanabilir."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "p": [
+    "“Oyun boyunca sadece bir kez, gündüz vakti alenen bir oyuncu seçersin: eğer o oyuncu Şeytan ise, anında ölür.”",
+    "Avcı, Şeytan’ın kim olduğunu tahmin ederek onu öldürebilir."
+  ],
+  "li": [
+    "Avcı, bu yeteneğini gün içinde istediği anda kullanabilir ve kullandığını tüm oyunculara duyurmalıdır. Eğer seçtiği oyuncu Şeytan’sa, anında ölür. Değilse hiçbir şey olmaz.",
+    "Oyuncular, ölen kişinin kim olduğunu öğrenmez. Sonuçta, o kişi belki de Münzevi’ydi!",
+    "Eğer Avcı yeteneğini zehirlenmiş veya sarhoş haldeyken kullanırsa, bu hakkını kaybeder ve tekrar kullanamaz.",
+    "Avcı, hayatta olan bir oyuncuyu hedef almak ister. Ölü bir Cin’i hedef alırsa, hiçbir şey olmaz—ölü biri yeniden ölemez.",
+    "Oyuncular istedikleri şeyi her zaman söyleyebilir. Bu yüzden kendini Avcı gibi tanıtan biri, Avcı yeteneğini kullanıyormuş gibi yapabilir."
+  ],
+  "examples": [
+    "Avcı, Cin’i seçer. Cin ölür ve iyiler kazanır!",
+    "Avcı, Münzevi’yi seçer. Anlatıcı, Münzevi’nin Cin olarak göründüğüne karar verir, bu yüzden Münzevi ölür; fakat oyun devam eder.",
+    "Cin, kendini Avcı gibi tanıtmaktadır. Masumları kandırmak için Masum yeteneğini kullandığını ilan eder ve Kanlı Kadın’ı hedef alır. Hiçbir şey olmaz."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "p": [
+    "“İlk gece hariç her gece bir oyuncu seçersin: o oyuncu ölür. Eğer bu şekilde kendini öldürürsen, bir Yardakçı Cin olur.”",
+    "Cin her gece bir oyuncuyu öldürür ve kendini feda ederek yerini bir Yardakçı’ya bırakabilir… korkunç bir bedelle."
+  ],
+  "li": [
+    "İlk gece hariç her gece, Cin bir oyuncu seçer ve o oyuncu ölür. Çoğu karakter Şeytan’dan sonra harekete geçtiği için, seçilen oyuncu büyük olasılıkla o gece yeteneğini kullanamaz.",
+    "Cin, bir Şeytan olduğu için hangi oyuncuların Yardakçı olduğunu bilir ve oyunda olmayan üç iyi karakterin kim olduğunu da bilir—bunlar sayesinde güvenle yalan söyleyebilir.",
+    "Eğer Cin ölürse, oyun sona erer ve iyiler kazanır. Ancak Cin gece kendi kendini öldürürse, kendisi ölür ve hayattaki bir Yardakçı yeni Cin olur. Bu yeni Cin, o gece saldırı yapmaz ama her yönden artık Cin’dir—her gece öldürür ve öldürülürse kaybeder."
+  ],
+  "examples": [
+    "İlk gece oynanıyor. Cin, Ata ve Ece’nin Yardakçılar olduğunu öğrenir. Ayrıca Derviş, Aşçı ve Kütüphaneci’nin oyunda olmadığını öğrenir. Cin önce kendini Aşçı gibi tanıtır, sonra oyunun ortasında Belediye Başkanı rolüne geçer. En sonunda Cin idam edilir ve iyiler kazanır.",
+    "Gece boyunca Cin uyanır ve bir oyuncu seçer; o oyuncu ölür. Ertesi gece, Cin kendini öldürmeyi seçer. Cin ölür ve Zehirleyici yeni Cin olur."
+  ]
+}

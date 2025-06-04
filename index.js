@@ -64,14 +64,14 @@ document.addEventListener("DOMContentLoaded", () => {
                             text => `<li>${text}</li>`
                         ).join('');
 
-                        // Populate examples
+                        // Populate examples with newline handling
                         examplesContent.innerHTML = data.examples.map(
                             example => `
                                 <div class="p-4">
                                     <div class="bg-white dark:bg-gray-800 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5">
-                                        <p class="text-gray-500 dark:text-gray-400 mt-2 text-sm">
-                                            ${example}
-                                        </p>
+                                        ${example.split('\n').map(
+                                            line => `<p class="text-gray-500 dark:text-gray-400 mt-2 text-sm">${line}</p>`
+                                        ).join('')}
                                     </div>
                                 </div>
                             `

@@ -1,0 +1,17 @@
+{
+  "p": [
+    "“İlk kez aday gösterildiğinde, seni aday gösteren kişi bir Kasabalıysa, o oyuncu derhal idam edilir.”",
+    "Masum, kendisini suçlayan oyuncuyu istemeden de olsa idam ettirebilir ve bu sayede hangi oyuncuların Kasabalı olduğu ortaya çıkabilir."
+  ],
+  "li": [
+    "Eğer bir Kasabalı, Masum’u aday gösterirse, o Kasabalı anında idam edilir. Gün içinde yalnızca bir idam gerçekleşebileceği için, bu olay adaylık sürecini anında sona erdirir—başka biri az kalsın ölecek olsa bile.",
+    "Yalnızca Kasabalılar Masum’un yeteneğiyle idam edilir. Bir Dışlanan, Yardakçı ya da Şeytan Masum’u aday gösterirse hiçbir şey olmaz ve oylama normal şekilde devam eder.",
+    "Masum’un yeteneği çok güçlüdür; çünkü eğer bir Kasabalı onu aday gösterir ve ölürse, her iki karakterin de Kasabalı olduğu neredeyse kesinleşir.",
+    "Masum ilk kez aday gösterildikten sonra, onu aday gösteren kişi ölmemiş olsa bile, hatta Masum zehirlenmiş ya da sarhoş olsa bile, yeteneği devre dışı kalır."
+  ],
+  "examples": [
+    "Çamaşırcı Kadın, Masum’u aday gösterir. Çamaşırcı Kadın anında idam edilir ve gün sona erer.",
+    "Kendini Aşçı sanan Sarhoş, Masum’u aday gösterir. Sarhoş hayatta kalır ve Masum yeteneğini kaybeder. Oyuncular artık Masum’un idam edilip edilmeyeceğine oy verebilir. (Bu, Sarhoş’un Kasabalı olmamasından kaynaklanır.)",
+    "Ölü bir oyuncu Masum’u aday göstermek ister ancak ölü oyuncular aday gösteremez. Anlatıcı, adaylığın geçersiz olduğunu ilan eder. Masum yeteneğini kaybetmez."
+  ]
+}

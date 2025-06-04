@@ -1,0 +1,17 @@
+{
+  "p": [
+    "“Her gece iki oyuncu seçersin: ikisinden biri Şeytan mı, öğrenirsin. Ancak Kasaba Halkı'ndan sabit bir oyuncu sana Şeytan gibi gözükür.”",
+    "Falcı, kimin Şeytan olduğunu tespit eder, fakat bazen iyi oyuncuları da Şeytan sanabilir."
+  ],
+  "li": [
+    "Her gece Falcı iki oyuncu seçer ve bu ikiliden en az birinin Şeytan olup olmadığını öğrenir. Hangi oyuncunun Şeytan olduğunu değil, sadece en az birinin Şeytan olup olmadığını öğrenir. Eğer ikisi de Şeytan değilse, bunun bilgisini alır.",
+    "Ne yazık ki oyunda “Ne O Ne Bu” adı verilen bir oyuncu vardır. Bu iyi oyuncu, seçildiğinde Falcı’ya Şeytan gibi görünür. Ne O Ne Bu, oyun boyunca hep aynı oyuncudur. Falcı dahil olmak üzere herhangi bir iyi oyuncu olabilir ve Falcı, bu oyuncunun kim olduğunu bilmez.",
+    "Falcı herhangi iki oyuncuyu seçebilir—hayatta olsunlar ya da ölü, hatta kendini bile seçebilir. Eğer ölü bir Şeytan seçilirse, Falcı yine de “evet” cevabını alır."
+  ],
+  "examples": [
+    "Falcı, Derviş ile Mezarcı’yı seçer ve “hayır” cevabını alır.",
+    "Falcı, Cin ile Empat’ı seçer ve “evet” cevabını alır.",
+    "Falcı, hayatta olan bir Uşak ile ölü bir Cin’i seçer ve “evet” cevabını alır.",
+    "Falcı, kendisini ve bir Aziz’i seçer. Aziz, Ne O Ne Bu’dur. Falcı “evet” cevabını alır."
+  ]
+}

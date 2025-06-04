@@ -1,0 +1,14 @@
+{
+  "p": [
+    "“Gece ölürsen, bir oyuncu seçmek için uyandırılırsın: o oyuncunun karakterini öğrenirsin.”",
+    "Karga Gözcüsü, gece ölürse bir oyuncunun karakterini öğrenme hakkı kazanır."
+  ],
+  "li": [
+    "Karga Gözcüsü, öldüğü gece uyandırılır ve anında bir oyuncu seçer.",
+    "İsterse ölü bir oyuncuyu da seçebilir."
+  ],
+  "examples": [
+    "Karga Gözcüsü, Cin tarafından öldürülür ve ardından uyandırılır. Bir süre düşündükten sonra Alp’i seçer. Alp Empat’tır ve Karga Gözcüsü bunu öğrenir.",
+    "Cin, Belediye Başkanı’na saldırır. Başkan ölmez; yeteneği nedeniyle onun yerine Karga Gözcüsü ölür. Karga Gözcüsü uyandırılır ve Nil’i seçer; Nil ölü bir Münzevi’dir. Karga Gözcüsü, Nil’in Kanlı Kadın olduğunu öğrenir; çünkü Münzevi bir Yardakçı gibi görünmüştür."
+  ]
+}

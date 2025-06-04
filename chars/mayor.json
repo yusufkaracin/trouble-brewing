@@ -1,0 +1,18 @@
+{
+  "p": [
+    "“Eğer sadece 3 oyuncu hayatta kalır ve o gün idam gerçekleşmezse, senin takımın kazanır. Gece ölürsen, yerine başka bir oyuncu ölebilir.”",
+    "Belediye Başkanı, son günü barışçıl bir şekilde kazanarak bitirebilir."
+  ],
+  "li": [
+    "Hayatta kalmak için Belediye Başkanı bazen başka birinin “kazara” ölümüne neden olabilir. Eğer Şeytan Başkan’a saldırırsa ve Başkan ölecekse, Anlatıcı başka bir oyuncunun ölmesine karar verebilir. Bu oyuncunun gece nasıl öldüğü açıklanmaz, sadece öldüğü duyurulur.",
+    "Eğer gün sonunda yalnızca üç oyuncu hayattaysa ve o gün kimse idam edilmemişse, oyun sona erer ve iyiler kazanır.",
+    "Yolcular, Belediye Başkanı’nın zafer koşullarında oyuncu olarak sayılır, bu yüzden önce sürgün edilmeleri gerekir. Unutma, sürgün idam değildir.",
+    "Uydurma karakterler, Belediye Başkanı’nın zafer koşullarında oyuncu sayılmaz; çünkü Anlatıcı bir oyuncu değildir.",
+    "Eğer Şeytan, Belediye Başkanı’na saldırır ve Anlatıcı onun yerine ölü bir oyuncuyu, bir Asker’i ya da Derviş tarafından korunmuş birini seçerse, o oyuncu da o gece ölmez."
+  ],
+  "examples": [
+    "Cin, Belediye Başkanı’na saldırır. Anlatıcı, onun yerine Karga Gözcüsü’nün ölmesine karar verir.",
+    "Üç oyuncu hayattadır. O gün kimse idama aday gösterilmez. İyiler kazanır.",
+    "Beş oyuncu hayattadır, bunlardan ikisi Yolcudur. Her iki Yolcu da sürgün edilir ve kalan oyuncular arasında oylama berabere biter. Beraberlik idam gerçekleşmediği anlamına geldiğinden, iyiler kazanır."
+  ]
+}
