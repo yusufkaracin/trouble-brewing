@@ -1,0 +1,15 @@
+{
+  "p": [
+    "“İki oyuncudan birinin belirli bir Kasabalı olduğunu oyunun başında bilirsin.”",
+    "Çamaşırcı Kadın, oyunda belirli bir Kasabalı karakterin bulunduğunu öğrenir; ancak bu karakterin hangi oyuncuya ait olduğunu bilmez."
+  ],
+  "ul": [
+    "İlk gece Çamaşırcı Kadın uyandırılır, kendisine iki oyuncu gösterilir ve bu ikiliden birinin oynadığı karakter söylenir.",
+    "Bu bilgiyi yalnızca bir kez edinir ve sonrasında başka hiçbir bilgi almaz."
+  ],
+  "examples": [
+    "Ata Aşçı’dır, Nil ise Karga Gözcüsü’dür. Çamaşırcı Kadın, Ata ya da Nil’den birinin Aşçı olduğunu öğrenir.",
+    "Alp Cin’dir, Ege ise Masum'dur. Çamaşırcı Kadın, Alp ya da Ege’den birinin Masum olduğunu öğrenir.",
+    "Ela Casus’tur, Ece ise Kanlı Kadın’dır. Çamaşırcı Kadın, bu ikiliden birinin Karga Gözcüsü olduğunu öğrenir. Çünkü Casus, kendisini Karga Gözcüsü olarak gizlemiştir."
+  ]
+}
