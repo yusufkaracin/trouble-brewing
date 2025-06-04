@@ -1,0 +1,15 @@
+{
+  "p": [
+    "“İki oyuncudan birinin belirli bir Yardakçı olduğunu oyunun başında bilirsin.”",
+    "Müfettiş, belirli bir Yardakçı karakterin oyunda olduğunu öğrenir; ancak bu karakterin hangi oyuncuya ait olduğunu kesin olarak bilmez."
+  ],
+  "li": [
+    "İlk gece Müfettiş’e iki oyuncu gösterilir ve bu ikiliden birinin belirli bir Yardakçı olduğunu öğrenir.",
+    "Bu bilgi yalnızca bir kez verilir, sonrasında başka bilgi edinilmez."
+  ],
+  "examples": [
+    "Nil Baron’dur, Alp ise Belediye Başkanı’dır. Müfettiş, Nil ya da Alp’ten birinin Baron olduğunu öğrenir.",
+    "Ata Casus’tur, Ege ise Zehirleyici’dir. Müfettiş, Ata ya da Ege’den birinin Casus olduğunu öğrenir.",
+    "Ece Münzevi’dir, Ela ise Cin’dir. Müfettiş, Ece ya da Ela’dan birinin Zehirleyici olduğunu öğrenir. (Bu durum, Münzevi’nin bir Yardakçı gibi—bu örnekte Zehirleyici—görünmesinden kaynaklanır.)"
+  ]
+}

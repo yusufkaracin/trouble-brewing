@@ -2,8 +2,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const searchInput = document.querySelector(".form-input");
     const characterCards = document.querySelectorAll(".character-card");
     const modal = document.getElementById("character-modal");
-    const modalTitle = document.getElementById("modal-title");
-    const modalImage = document.getElementById("modal-image");
     const modalDescription = document.getElementById("modal-description");
 
     searchInput.addEventListener("input", () => {
@@ -37,17 +35,49 @@ document.addEventListener("DOMContentLoaded", () => {
         card.addEventListener("touchstart", () => {
             longTouchTimeout = setTimeout(async () => {
                 const charName = card.getAttribute("data-char");
-                const charImageSrc = card.querySelector("img").src;
                 const charId = card.getAttribute("data-char-id"); // Assuming `data-char-id` exists
 
-                modalTitle.textContent = charName;
-                modalImage.src = charImageSrc;
-
                 try {
-                    const response = await fetch(`./chars/${charId}.html`);
+                    const response = await fetch(`./chars/${charId}.json`);
                     if (response.ok) {
-                        const description = await response.text();
-                        modalDescription.innerHTML = description; // Render HTML content
+                        const data = await response.json();
+
+                        // Fetch template HTML
+                        const templateResponse = await fetch('./chars/template.html');
+                        const templateHTML = await templateResponse.text();
+
+                        // Populate modal content dynamically
+                        const parser = new DOMParser();
+                        const templateDoc = parser.parseFromString(templateHTML, 'text/html');
+
+                        const pContent = templateDoc.querySelector('#p-content');
+                        const ulContent = templateDoc.querySelector('#ul-content');
+                        const examplesContent = templateDoc.querySelector('#examples-content');
+
+                        // Populate paragraphs
+                        pContent.innerHTML = data.p.map(
+                            text => `<p class="text-[#141414] text-base font-normal leading-normal pb-3 pt-1 px-4">${text}</p>`
+                        ).join('');
+
+                        // Populate list items
+                        ulContent.innerHTML = data.li.map(
+                            text => `<li>${text}</li>`
+                        ).join('');
+
+                        // Populate examples
+                        examplesContent.innerHTML = data.examples.map(
+                            example => `
+                                <div class="p-4">
+                                    <div class="bg-white dark:bg-gray-800 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5">
+                                        <p class="text-gray-500 dark:text-gray-400 mt-2 text-sm">
+                                            ${example}
+                                        </p>
+                                    </div>
+                                </div>
+                            `
+                        ).join('');
+
+                        modalDescription.innerHTML = templateDoc.body.innerHTML; // Render the updated template
                     } else {
                         modalDescription.textContent = `Details about ${charName} not found.`;
                     }

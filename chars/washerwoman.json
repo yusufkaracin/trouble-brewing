@@ -3,7 +3,7 @@
     "“İki oyuncudan birinin belirli bir Kasabalı olduğunu oyunun başında bilirsin.”",
     "Çamaşırcı Kadın, oyunda belirli bir Kasabalı karakterin bulunduğunu öğrenir; ancak bu karakterin hangi oyuncuya ait olduğunu bilmez."
   ],
-  "ul": [
+  "li": [
     "İlk gece Çamaşırcı Kadın uyandırılır, kendisine iki oyuncu gösterilir ve bu ikiliden birinin oynadığı karakter söylenir.",
     "Bu bilgiyi yalnızca bir kez edinir ve sonrasında başka hiçbir bilgi almaz."
   ],

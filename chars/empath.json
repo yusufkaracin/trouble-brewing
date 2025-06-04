@@ -1,0 +1,15 @@
+{
+  "p": [
+    "“Her gece, hayatta olan iki komşundan kaçının kötü olduğunu öğrenirsin.”",
+    "Empat, sağındaki ve solundaki yaşayan oyuncuların iyi mi kötü mü olduğunu her gece öğrenmeye devam eder."
+  ],
+  "li": [
+    "Empat yalnızca kaç komşusunun kötü olduğunu öğrenir; hangisi olduğunu bilmez",
+    "Ölü oyuncular algılanmaz. Eğer Empat’ın yanında bir ölü oyuncu varsa, o oyuncudan bilgi alınmaz; onun yerine o yöndeki en yakın hayattaki oyuncu dikkate alınır.",
+    "Empat, Şeytan’dan sonra harekete geçer. Yani eğer Şeytan Empat’ın yaşayan bir komşusunu o gece öldürürse, Empat o artık ölü olan oyuncudan bilgi almaz.",
+    "Empat’ın bilgisi, gece değil, sabah doğruluğunu korur."
+  ],
+  "examples": [
+    "Empat’ın iki komşusu iyi oyunculardır—bir Asker ve bir Derviş. Empat, “0” bilgisini alır.\n\nErtesi gün, Asker idam edilir. O gece, Derviş Cin tarafından öldürülür. Artık Empat, Asker’in ve Derviş’in yanında oturan oyuncuları algılar: bir Kütüphaneci ve kötü bir Silahşor. Empat bu kez “1” bilgisini alır.\n\nOyunda sadece üç oyuncu hayatta kalmıştır: Empat, Cin ve Baron. Kim nerede oturursa otursun, Empat “2” bilgisini alır.\n"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "p": [
+    "“İki oyuncudan birinin belirli bir Dışlanan olduğunu (ya da hiç Dışlanan olmadığını) oyunun başında bilirsin.”",
+    "Kütüphaneci, belirli bir Dışlanan karakterin oyunda olduğunu öğrenir; ancak bu karakterin hangi oyuncuda olduğunu kesin olarak bilmez."
+  ],
+  "li": [
+    "İlk gece, Kütüphaneci’ye iki oyuncu gösterilir ve bu ikiliden birinin belirli bir Dışlanan olduğunu öğrenir.",
+    "Bu bilgiyi yalnızca bir kez alır ve sonrasında başka bir bilgi edinmez.",
+    "Sarhoş bir Dışlanandır. Kütüphaneci, iki oyuncudan birinin Sarhoş olduğunu öğrenirse, Sarhoş’un kendini sandığı Kasabalı karakteri öğrenemez."
+  ],
+  "examples": [
+    "Alp Aziz’tir, Ege ise Baron’dur. Kütüphaneci, Alp ya da Ege’den birinin Aziz olduğunu öğrenir.",
+    "Bu oyunda hiç Dışlanan yoktur. Kütüphaneci “0” bilgisi alır.",
+    "Ata Sarhoş’tur ve kendisini Derviş sanmaktadır; Nil ise Mezarcı’dır. Kütüphaneci, Ata ya da Nil’den birinin Sarhoş olduğunu öğrenir. (Bu durum, Kütüphaneci’nin gerçek karakter bilgisini öğrenmesinden kaynaklanır. Ata’nın gerçek karakteri Sarhoş’tur, Derviş değildir.)"
+  ]
+}

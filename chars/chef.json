@@ -1,0 +1,16 @@
+{
+  "p": [
+    "“Kötü oyuncuların toplamda kaç çift oluşturduğunu oyunun başında öğrenirsin.”",
+    "Aşçı, kötü oyuncuların yan yana oturup oturmadığını bilir."
+  ],
+  "li": [
+    "İlk gece, Aşçı’ye kötü oyuncuların toplamda kaç çift oluşturduğu tam olarak söylenir. Bir çift, iki oyuncudan oluşur; ancak bir oyuncu iki farklı çiftin parçası olabilir. Örneğin, iki oyuncu yan yana oturuyorsa bu bir çifttir. Üç oyuncu yan yana ise bu iki çifttir. Dört kişi yan yana olduğunda üç çift olur. Bu şekilde devam eder.",
+    "Aşçı, diğer karakterlerde olduğu gibi kötü Yolcuları da algılayabilir—ancak yalnızca bu Yolcular, Aşçı bilgi almadan önce oyuna katıldıysa."
+  ],
+  "examples": [
+    "Hiçbir kötü oyuncu yan yana oturmuyor. Aşçı “0” bilgisini alır.",
+    "Cin, Baron’un yanında oturuyor. Çemberin karşısında, Zehirleyici ile Kanlı Kadın yan yana oturuyor. Aşçı “2” bilgisini alır.",
+    "Kötü bir Günah Keçisi, Cin ile bir Yardakçı’nın arasında oturuyor. Çemberin karşısında ise iki başka Yardakçı yan yana oturuyor. Aşçı “3” bilgisini alır.",
+    "Münzevi, Cin ile Zehirleyici’nin arasında oturuyor. Aşçı “1” bilgisini alır. Bu durumda Münzevi, Cin-Münzevi çifti için kötü olarak atanmıştır, Münzevi-Zehirleyici çifti için iyi olarak atanmıştır."
+  ]
+}
