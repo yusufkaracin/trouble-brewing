@@ -56,12 +56,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
                         // Populate paragraphs
                         pContent.innerHTML = data.p.map(
-                            text => `<p class="text-[#141414] text-base font-normal leading-normal pb-3 pt-1 px-4">${text}</p>`
+                            text => `<p class="text-[#141414] text-lg font-normal leading-normal pb-3 pt-1 px-4">${text}</p>`
                         ).join('');
 
                         // Populate list items
                         ulContent.innerHTML = data.li.map(
-                            text => `<li>${text}</li>`
+                            text => `<li class="text-lg">${text}</li>`
                         ).join('');
 
                         // Populate examples with newline handling
@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", () => {
                                 <div class="p-4">
                                     <div class="bg-white dark:bg-gray-800 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5">
                                         ${example.split('\n').map(
-                                            line => `<p class="text-gray-500 dark:text-gray-400 mt-2 text-sm">${line}</p>`
+                                            line => `<p class="text-gray-500 dark:text-gray-400 mt-2 text-lg">${line}</p>`
                                         ).join('')}
                                     </div>
                                 </div>
