@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let touchTimeout;
     let isTouching = false;
+    let isScrolling = false;
 
     const resetTouchTimeout = () => {
         clearTimeout(touchTimeout);
@@ -32,8 +33,11 @@ document.addEventListener("DOMContentLoaded", () => {
     characterCards.forEach(card => {
         let longTouchTimeout;
 
-        card.addEventListener("touchstart", () => {
+        card.addEventListener("touchstart", (event) => {
+            isScrolling = false; // Reset scrolling flag on touch start
             longTouchTimeout = setTimeout(async () => {
+                if (isScrolling) return; // Do not show modal if scrolling occurred
+
                 const charName = card.getAttribute("data-char");
                 const charId = card.getAttribute("data-char-id"); // Assuming `data-char-id` exists
 
@@ -90,6 +94,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 isTouching = true;
                 resetTouchTimeout();
             }, 500);
+        });
+
+        card.addEventListener("touchmove", () => {
+            isScrolling = true; // Set scrolling flag on touch move
+            clearTimeout(longTouchTimeout); // Cancel long press if scrolling
         });
 
         card.addEventListener("touchend", () => {
