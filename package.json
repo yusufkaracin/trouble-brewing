@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "npx @tailwindcss/cli -i ./input.css -o ./dist/output.css --watch"
+    "build": "npx @tailwindcss/cli -i ./input.css -o ./dist/output.css --watch",
+    "start": "http-server ./ -p 3000"
   },
   "private": true,
   "dependencies": {
     "@tailwindcss/cli": "^4.1.8",
     "tailwindcss": "^4.1.8"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
   }
 }
