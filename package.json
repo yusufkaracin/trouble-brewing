@@ -2,7 +2,7 @@
   "name": "botc-trouble-brewing",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index_1749125287.js",
   "scripts": {
     "build": "npx @tailwindcss/cli -i ./input.css -o ./dist/output.css --watch",
     "start": "http-server ./ -p 3000"
